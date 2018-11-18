@@ -1,1 +1,7 @@
 /.project
+.buckd
+buck-out
+buckaroo
+.buckconfig.local
+.buckconfig.d
+BUCKAROO_DEPS

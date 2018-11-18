@@ -1,0 +1,65 @@
+targets = [ "//:chrono" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-rational"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-typeof"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-winapi"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-predef"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-ratio"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-move"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "branch=master"
