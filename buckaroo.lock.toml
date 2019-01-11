@@ -106,7 +106,7 @@ revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
 
 [lock."github.com/buckaroo-pm/boost-ratio"]
 versions = [ "branch=master" ]
-revision = "f1c61e4dd5f258c1f3b355a881f6048af1be5605"
+revision = "1b80056654a5ca6384e54d925cfdd58feee28f63"
 
 [lock."github.com/buckaroo-pm/boost-rational"]
 versions = [ "branch=master" ]
