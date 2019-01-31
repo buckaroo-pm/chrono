@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'french',
+  srcs = [
+    'french.cpp',
+  ],
+  deps = [
+    '//:chrono',
+  ],
+)
