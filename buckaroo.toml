@@ -1,0 +1,49 @@
+targets = ["//:chrono"]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-rational"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-typeof"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-exception"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-ratio"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "1.49.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-io"
+version = "1.49.0"
